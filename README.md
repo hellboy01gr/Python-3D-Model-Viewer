@@ -38,3 +38,6 @@ If the build was successful you should see a folder named "dist" in the root of 
 Place the meshes folder, imgui.ini and icon.png inside the dist folder .
 
 You can now run main.exe and the program should open.
+
+## Thanks
+Thanks to [Willy-JL](https://github.com/Willy-JL) for the file explorer code.
